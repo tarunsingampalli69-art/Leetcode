@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/tarunsingampalli69-art/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
